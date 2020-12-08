@@ -2,7 +2,7 @@
 
 ## Utilisation :
 Au Lancement du code, Il sera demandé à l’utilisateur la taille de la grille (carré). En Sachant que la taille d’une cellule est de 10, une valeur de 600 entraine de grille de 60 par 60.
-la console vous demandera ensuite de rentrer 4 listes de 4 valeurs (entre 0 et 1 sinon ca ne fonctionne pas)représentants les probabilités de transition d’un couple à un autre. 
+la console vous demandera ensuite de rentrer 4 listes de 4 valeurs (entre 0 et 1 sinon ca ne fonctionne pas) représentants les probabilités de transition d’un couple à un autre. 
 - La première liste est celle pour les couples Noirs-Blancs
 - La deuxième liste est celle pour les couples Noirs-Noirs
 - La troisième liste est celle pour les couples Blancs-Noirs
